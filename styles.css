@@ -1,17 +1,21 @@
+table,th,td{
+	font-family:arial;
+	font-weight:200;
+	font-size:14px;
 
-/* Your CSS Code here. */
-table {
-	text-align: left;
-	border: 2px solid black;
-	border-collapse: collapse;
-}
-thead {
+	
+	
+	border-collapse:collapse;
+	padding:2px 60px 2px 1px;
 	
 }
-th {
-	border: 2px solid black;
+th{
+	background-color:crimson;
+	color:antiquewhite;
+	
 }
-td {
-	border: 2px solid black;
-	text-align: right;
+td{
+	background-color:antiquewhite;
+	color:crimson;
+	
 }
